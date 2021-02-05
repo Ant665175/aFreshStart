@@ -1,0 +1,17 @@
+/*手风琴页面CSS*/
+.main {
+  width: 1200px;
+  height: 300px;
+  border:1px solid red;
+  margin: 50px auto;
+}
+.main ul{
+  margin:0;
+  padding: 0;
+  background-color: #333eee;
+  width: 1000px;
+  height: 300px;
+}
+.main ul li {
+  padding:0;
+}
